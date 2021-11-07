@@ -5,7 +5,8 @@ Truth Table evaluation is a must.
 
 
 
-Cited Work: https://replit.com/@coeCS362/whitebox2  
+Cited Work:  
+https://replit.com/@coeCS362/whitebox2  
 https://replit.com/@coeCS362/whitebox3   
 https://replit.com/@coeCS362/whitebox4   
 Exploration: White Box Testing
